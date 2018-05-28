@@ -6,3 +6,25 @@
 	width: 100%;
 	height: 100%;
 }
+#red .ui-slider-range,#red .ui-slider-handle {
+	background: #ef2929;
+}
+#green .ui-slider-range,#green .ui-slider-handle {
+	background: #8ae234;
+}
+#blue .ui-slider-range,#blue .ui-slider-handle {
+	background: #729fcf;
+}
+#white .ui-slider-range,#white .ui-slider-handle {
+	background: #edebd0;
+}
+#widget-colorpicker-dialog {
+	width:500px;
+	height:310px !important;
+}
+#widget-colorpicker-slider {
+	margin:0px 10px 10px 10px;
+}
+#red,#green,#blue,#white {
+	margin:10px 0px 0px 0px;
+}
